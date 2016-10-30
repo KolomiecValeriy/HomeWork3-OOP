@@ -6,5 +6,10 @@
             "email": "vel202007@gmail.com"
         }
     ],
+    "autoload": {
+	"psr-4": {
+	    "Project\\": "src/"
+	}
+    },
     "require": {}
 }
